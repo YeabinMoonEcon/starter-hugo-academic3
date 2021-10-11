@@ -1,8 +1,8 @@
 ---
 title: Example Project
-summary: An example of using the in-built project page.
-tags:
-- Deep Learning
+summary: abstract here?
+#tags:
+#- Deep Learning
 date: "2016-04-27T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).
@@ -14,7 +14,7 @@ external_link: ""
 
 
 url_code: ""
-url_pdf: "https://drive.google.com/file/d/1j7LNwDMkskeCVbIZEkVmmNB5-zoHKks3/view?usp=sharing"
+url_pdf: "https://www.icloud.com/iclouddrive/0u3czhnN1eXC5-5H5qUlaxO2Q#draft4"
 url_slides: ""
 url_video: ""
 
@@ -25,5 +25,3 @@ url_video: ""
 #   Otherwise, set `slides = ""`.
 slides: ""
 ---
-
-Abstract here
