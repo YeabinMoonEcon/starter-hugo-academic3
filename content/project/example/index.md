@@ -18,6 +18,8 @@ url_pdf: "https://www.icloud.com/iclouddrive/0u3czhnN1eXC5-5H5qUlaxO2Q#draft4"
 url_slides: ""
 url_video: ""
 
+authors:
+- admin
 # Slides (optional).
 #   Associate this project with Markdown slides.
 #   Simply enter your slide deck's filename without extension.
