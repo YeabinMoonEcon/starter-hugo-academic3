@@ -1,6 +1,6 @@
 ---
-title: Example Project
-summary: abstract here?
+title: Long Term Effects of Graduating in a Recession for Economics Ph.D.s
+summary: abstract here
 #tags:
 #- Deep Learning
 date: "2016-04-27T00:00:00Z"
@@ -25,3 +25,4 @@ url_video: ""
 #   Otherwise, set `slides = ""`.
 slides: ""
 ---
+Abstract here
