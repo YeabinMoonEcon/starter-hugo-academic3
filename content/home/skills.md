@@ -23,7 +23,7 @@ feature:
 - description: Applied Econometrics
   icon: chart-line
   icon_pack: fas
-  name: Economic Model
+  name: Economic Modeling
 - description: HTML, CSS, JavaScript
   icon: html_br
   icon_pack: custom
