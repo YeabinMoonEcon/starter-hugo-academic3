@@ -14,7 +14,7 @@ external_link: ""
 
 
 url_code: ""
-url_pdf: "https://www.icloud.com/iclouddrive/0u3czhnN1eXC5-5H5qUlaxO2Q#draft4"
+url_pdf: "https://www.yeabinmoon.com/uploads/draft9.pdf"
 url_slides: ""
 url_video: ""
 
