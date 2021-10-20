@@ -23,29 +23,29 @@ date_format: Jan 2006
 #   Leave other parameters empty if not required.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 item:
-- certificate_url: https://www.coursera.org
+- certificate_url: https://coursera.org/share/cf57cece18189f9b6f131f62541f37ec
   date_end: ""
-  date_start: "2021-01-25"
+  date_start: "2020-10-16"
   description: ""
   organization: Coursera
   organization_url: https://www.coursera.org
   title: Python for Data Science, AI & Development
-  url: "https://coursera.org/share/cf57cece18189f9b6f131f62541f37ec"
-- certificate_url: https://www.edx.org
+  url: ""
+- certificate_url: https://coursera.org/share/8432599e65daceb745442758a1f48978
   date_end: ""
-  date_start: "2021-01-01"
-  description: Formulated informed blockchain models, hypotheses, and use cases.
-  organization: edX
-  organization_url: https://www.edx.org
-  title: Blockchain Fundamentals
-  url: https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals
-- certificate_url: https://www.datacamp.com
-  date_end: "2020-12-21"
-  date_start: "2020-07-01"
+  date_start: "2020-10-07"
   description: ""
-  organization: DataCamp
-  organization_url: https://www.datacamp.com
-  title: 'Object-Oriented Programming in R'
+  organization: Coursera
+  organization_url: https://www.coursera.org
+  title: Data Science Methodology
+  url: ""
+- certificate_url: https://coursera.org/share/9bdaa2946a17998f6a911ba1dae276f7
+  date_end: ""
+  date_start: "2020-11-15"
+  description: ""
+  organization: Coursera
+  organization_url: https://www.coursera.org
+  title: Data Visualization with Python
   url: ""
 
 design:
