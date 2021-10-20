@@ -25,9 +25,9 @@ feature:
   icon_pack: fas
   name: Statistics
 - description: 10%
-  icon: camera-retro
-  icon_pack: fas
-  name: Photography
+  icon: html_br
+  icon_pack: custom
+  name: HTML
 
 # Uncomment to use emoji icons.
 #- icon: ":smile:"
