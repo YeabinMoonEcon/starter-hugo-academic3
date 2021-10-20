@@ -47,6 +47,14 @@ item:
   organization_url: https://www.coursera.org
   title: Data Visualization with Python
   url: ""
+- certificate_url: https://coursera.org/share/e766f36ab4a1739432687a492d9b37f0
+  date_end: ""
+  date_start: "2020-11-15"
+  description: ""
+  organization: Coursera
+  organization_url: https://www.coursera.org
+  title: Tools for Data Science
+  url: ""
 
 design:
   columns: '2'
