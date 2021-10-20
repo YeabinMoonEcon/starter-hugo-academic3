@@ -25,12 +25,12 @@ date_format: Jan 2006
 item:
 - certificate_url: https://www.coursera.org
   date_end: ""
-  date_start: "2021-01-25"
+  date_start: ""
   description: ""
   organization: Coursera
   organization_url: https://www.coursera.org
-  title: Neural Networks and Deep Learning
-  url: ""
+  title: Python for Data Science, AI & Development
+  url: "https://coursera.org/share/cf57cece18189f9b6f131f62541f37ec"
 - certificate_url: https://www.edx.org
   date_end: ""
   date_start: "2021-01-01"
