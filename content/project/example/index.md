@@ -1,5 +1,5 @@
 ---
-title: Long Term Effects of Graduating in a Recession for Economics Ph.D.s
+title: Effects of Entry Economic Conditions on the Career of Economics Ph.D.
 summary: abstract here
 #tags:
 #- Deep Learning
