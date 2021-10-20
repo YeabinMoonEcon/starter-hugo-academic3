@@ -16,8 +16,8 @@ subtitle:
 # - Add/remove as many `feature` blocks below as you like.
 # - For available icons, see: https://wowchemy.com/docs/page-builder/#icons
 feature:
-- description: 100%
-  icon: python
+- description: Data work
+  icon: Python
   icon_pack: custom
   name: python
 - description: 100%
