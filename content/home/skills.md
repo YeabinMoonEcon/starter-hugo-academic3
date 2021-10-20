@@ -20,14 +20,14 @@ feature:
   icon: python
   icon_pack: custom
   name: python
-- description: 100%
+- description: Applied Econometrics
   icon: chart-line
   icon_pack: fas
-  name: Statistics
-- description: 10%
+  name: Economic Model
+- description: HTML, CSS, JavaScript
   icon: html_br
   icon_pack: custom
-  name: HTML
+  name: Web Development
 
 # Uncomment to use emoji icons.
 #- icon: ":smile:"
