@@ -16,7 +16,7 @@ subtitle:
 # - Add/remove as many `feature` blocks below as you like.
 # - For available icons, see: https://wowchemy.com/docs/page-builder/#icons
 feature:
-- description: Scraping, Natural Language Process
+- description: Scraping, Natural Language Process, Data Mining
   icon: python
   icon_pack: custom
   name: python
