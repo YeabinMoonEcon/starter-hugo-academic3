@@ -22,7 +22,7 @@ feature:
   name: Python
 - description: Econometrics
   icon: stata
-  icon_pack: custon
+  icon_pack: custom
   name: Stata
 - description: Microeconomics
   icon: chart-line
