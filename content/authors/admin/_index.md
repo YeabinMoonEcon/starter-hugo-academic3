@@ -64,4 +64,4 @@ highlight_name: true
 
 My name is Yeabin Moon. I am a PhD Candidate in the Economics Department at University of Houston. In my research, I use large-scale scraping and matching methods to study the effects of entry economic conditions on the economists' career. I am on the job market and will be available for interviews at the 2022 ASSA Meetings.
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/CV.pdf" "newtab" >}}resumé{{< /staticref >}}.
+{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/CV.pdf" "newtab" >}}curriculum vitae{{< /staticref >}}.
