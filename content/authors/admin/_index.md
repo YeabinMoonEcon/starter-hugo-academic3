@@ -29,13 +29,13 @@ education:
   courses:
   - course: PhD in Economics
     institution: University of Houston
-    year: 2022 (expected)
+    year: 2017 -- 2022 (expected)
   - course: MA in Economics
     institution: Johns Hopkins University
     year: 2016    
   - course: BA in Mathematics and Economics
     institution: University of Illinois at Urbana-Champaign
-    year: 2010 -- 2013
+    year: 2013
 #  - course: BSc in Artificial Intelligence
 #    institution: Massachusetts Institute of Technology
 #    year: 2008

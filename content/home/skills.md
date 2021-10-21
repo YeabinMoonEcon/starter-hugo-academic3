@@ -16,11 +16,15 @@ subtitle:
 # - Add/remove as many `feature` blocks below as you like.
 # - For available icons, see: https://wowchemy.com/docs/page-builder/#icons
 feature:
-- description: Scraping, Natural Language Process, Data Mining
+- description: Scraping, Natural Language Process, Data Mining, GIS
   icon: python
   icon_pack: custom
   name: Python
-- description: Applied Econometrics
+- description: Econometrics
+    icon: stata
+    icon_pack: custon
+    name: Stata
+- description: Microeconomics
   icon: chart-line
   icon_pack: fas
   name: Economic Modeling
