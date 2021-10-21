@@ -29,6 +29,9 @@ education:
   - course: PhD in Economics
     institution: University of Houston
     year: 2022 (expected)
+  - course: MA in Economics
+    institution: Johns Hopkins University
+    year: 2016    
   - course: BA in Mathematics and Economics
     institution: University of Illinois at Urbana-Champaign
     year: 2013
