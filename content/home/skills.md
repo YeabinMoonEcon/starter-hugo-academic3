@@ -21,7 +21,7 @@ feature:
   icon_pack: custom
   name: Python
 - description: Econometrics
-  icon: stata
+  icon: stata-logo
   icon_pack: custom
   name: Stata
 - description: Microeconomics
