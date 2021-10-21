@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2021) (preloaded format=pdflatex 2021.5.13)  20 OCT 2021 21:31
+This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2021) (preloaded format=pdflatex 2021.5.13)  20 OCT 2021 22:10
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -363,12 +363,12 @@ Underfull \hbox (badness 10000) in paragraph at lines 346--349
 [1
 
 {/usr/local/texlive/2021/texmf-var/fonts/map/pdftex/updmap/pdftex.map}]
-Underfull \hbox (badness 10000) in paragraph at lines 459--462
+Underfull \hbox (badness 10000) in paragraph at lines 467--470
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 474--486
+Underfull \hbox (badness 10000) in paragraph at lines 482--494
 
  []
 
@@ -376,13 +376,13 @@ Excluding 'comment' comment.
 AED: lastpage setting LastPage
 [2] (./CV.aux)
 Package rerunfilecheck Info: File `CV.out' has not changed.
-(rerunfilecheck)             Checksum: F8C7CAFA6C6308F1D405342227BF875D;1562.
+(rerunfilecheck)             Checksum: F3D9D13AE6EBF494EBB63F66038CEBB0;1691.
  ) 
 Here is how much of TeX's memory you used:
- 8627 strings out of 478994
- 128624 string characters out of 5858184
- 445089 words of memory out of 5000000
- 26017 multiletter control sequences out of 15000+600000
+ 8629 strings out of 478994
+ 128648 string characters out of 5858184
+ 444089 words of memory out of 5000000
+ 26018 multiletter control sequences out of 15000+600000
  405325 words of font info for 33 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  71i,13n,74p,327b,325s stack positions out of 5000i,500n,10000p,200000b,80000s
@@ -394,10 +394,10 @@ Here is how much of TeX's memory you used:
 sr/local/texlive/2021/texmf-dist/fonts/type1/public/amsfonts/cm/cmr7.pfb></usr/
 local/texlive/2021/texmf-dist/fonts/type1/public/amsfonts/cm/cmti10.pfb></usr/l
 ocal/texlive/2021/texmf-dist/fonts/type1/public/cm-super/sfrm1000.pfb>
-Output written on CV.pdf (2 pages, 92260 bytes).
+Output written on CV.pdf (2 pages, 96083 bytes).
 PDF statistics:
- 117 PDF objects out of 1000 (max. 8388607)
- 104 compressed objects within 2 object streams
- 16 named destinations out of 1000 (max. 500000)
- 105 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 121 PDF objects out of 1000 (max. 8388607)
+ 108 compressed objects within 2 object streams
+ 17 named destinations out of 1000 (max. 500000)
+ 113 words of extra memory for PDF output out of 10000 (max. 10000000)
 
