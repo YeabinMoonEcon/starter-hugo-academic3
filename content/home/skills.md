@@ -19,7 +19,7 @@ feature:
 - description: Scraping, Natural Language Process, Data Mining
   icon: python
   icon_pack: custom
-  name: python
+  name: Python
 - description: Applied Econometrics
   icon: chart-line
   icon_pack: fas
