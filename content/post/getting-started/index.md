@@ -28,7 +28,6 @@ image:
   #preview_only: false
 
 authors:
-- Elaine M. Liu
 - admin
 
 ---
