@@ -35,7 +35,7 @@ education:
     year: 2016    
   - course: BA in Mathematics and Economics
     institution: University of Illinois at Urbana-Champaign
-    year: 2013
+    year: 2010 -- 2013
 #  - course: BSc in Artificial Intelligence
 #    institution: Massachusetts Institute of Technology
 #    year: 2008
