@@ -21,9 +21,13 @@ feature:
   icon_pack: custom
   name: Python
 - description: Econometrics
-  icon: stata
+  icon: stata-logo-blue
   icon_pack: custom
   name: Stata
+- description: Computation
+  icon: matlab
+  icon_pack: custom
+  name: Matlab
 - description: Microeconomics
   icon: chart-line
   icon_pack: fas
