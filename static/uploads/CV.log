@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2021) (preloaded format=pdflatex 2021.5.13)  20 OCT 2021 23:27
+This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2021) (preloaded format=pdflatex 2021.5.13)  21 OCT 2021 00:09
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -363,12 +363,12 @@ Underfull \hbox (badness 10000) in paragraph at lines 346--349
 [1
 
 {/usr/local/texlive/2021/texmf-var/fonts/map/pdftex/updmap/pdftex.map}]
-Underfull \hbox (badness 10000) in paragraph at lines 477--480
+Underfull \hbox (badness 10000) in paragraph at lines 471--474
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 492--504
+Underfull \hbox (badness 10000) in paragraph at lines 486--498
 
  []
 
@@ -394,7 +394,7 @@ Here is how much of TeX's memory you used:
 sr/local/texlive/2021/texmf-dist/fonts/type1/public/amsfonts/cm/cmr7.pfb></usr/
 local/texlive/2021/texmf-dist/fonts/type1/public/amsfonts/cm/cmti10.pfb></usr/l
 ocal/texlive/2021/texmf-dist/fonts/type1/public/cm-super/sfrm1000.pfb>
-Output written on CV.pdf (2 pages, 96102 bytes).
+Output written on CV.pdf (2 pages, 96276 bytes).
 PDF statistics:
  117 PDF objects out of 1000 (max. 8388607)
  104 compressed objects within 2 object streams
