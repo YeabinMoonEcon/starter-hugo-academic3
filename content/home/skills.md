@@ -21,9 +21,9 @@ feature:
   icon_pack: custom
   name: Python
 - description: Econometrics
-    icon: stata
-    icon_pack: custon
-    name: Stata
+  icon: stata
+  icon_pack: custon
+  name: Stata
 - description: Microeconomics
   icon: chart-line
   icon_pack: fas
