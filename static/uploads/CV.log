@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2021) (preloaded format=pdflatex 2021.5.13)  20 OCT 2021 21:18
+This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2021) (preloaded format=pdflatex 2021.5.13)  20 OCT 2021 21:31
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -356,24 +356,19 @@ Overfull \hbox (18.0pt too wide) in paragraph at lines 241--249
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 336--339
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 367--370
+Underfull \hbox (badness 10000) in paragraph at lines 346--349
 
  []
 
 [1
 
 {/usr/local/texlive/2021/texmf-var/fonts/map/pdftex/updmap/pdftex.map}]
-Underfull \hbox (badness 10000) in paragraph at lines 457--460
+Underfull \hbox (badness 10000) in paragraph at lines 459--462
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 472--484
+Underfull \hbox (badness 10000) in paragraph at lines 474--486
 
  []
 
@@ -381,12 +376,12 @@ Excluding 'comment' comment.
 AED: lastpage setting LastPage
 [2] (./CV.aux)
 Package rerunfilecheck Info: File `CV.out' has not changed.
-(rerunfilecheck)             Checksum: 50C05C911B2434999EAA75DE78C57B63;1562.
+(rerunfilecheck)             Checksum: F8C7CAFA6C6308F1D405342227BF875D;1562.
  ) 
 Here is how much of TeX's memory you used:
  8627 strings out of 478994
  128624 string characters out of 5858184
- 444089 words of memory out of 5000000
+ 445089 words of memory out of 5000000
  26017 multiletter control sequences out of 15000+600000
  405325 words of font info for 33 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
@@ -399,7 +394,7 @@ Here is how much of TeX's memory you used:
 sr/local/texlive/2021/texmf-dist/fonts/type1/public/amsfonts/cm/cmr7.pfb></usr/
 local/texlive/2021/texmf-dist/fonts/type1/public/amsfonts/cm/cmti10.pfb></usr/l
 ocal/texlive/2021/texmf-dist/fonts/type1/public/cm-super/sfrm1000.pfb>
-Output written on CV.pdf (2 pages, 91783 bytes).
+Output written on CV.pdf (2 pages, 92260 bytes).
 PDF statistics:
  117 PDF objects out of 1000 (max. 8388607)
  104 compressed objects within 2 object streams
