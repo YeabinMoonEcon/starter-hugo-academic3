@@ -22,6 +22,7 @@ interests:
 - Labor
 - Health
 - Microeconomics
+- Applied Econometrics
 
 # Education to show in About widget
 education:
