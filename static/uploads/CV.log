@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2021) (preloaded format=pdflatex 2021.5.13)  3 NOV 2021 14:58
+This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2021) (preloaded format=pdflatex 2021.5.13)  3 NOV 2021 15:01
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -358,34 +358,34 @@ Overfull \hbox (18.0pt too wide) in paragraph at lines 241--249
 [1
 
 {/usr/local/texlive/2021/texmf-var/fonts/map/pdftex/updmap/pdftex.map}]
-Underfull \hbox (badness 10000) in paragraph at lines 407--410
+Underfull \hbox (badness 10000) in paragraph at lines 406--409
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 422--432
+Underfull \hbox (badness 10000) in paragraph at lines 421--431
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 439--442
+Underfull \hbox (badness 10000) in paragraph at lines 438--441
 
  []
 
 Excluding 'comment' comment. 
 AED: lastpage setting LastPage
-[2] [3] (./CV.aux)
+[2] (./CV.aux)
 Package rerunfilecheck Info: File `CV.out' has not changed.
 (rerunfilecheck)             Checksum: 44665AC1B22096414F30A78D4D705B81;1567.
  ) 
 Here is how much of TeX's memory you used:
- 8628 strings out of 478994
- 128630 string characters out of 5858184
+ 8627 strings out of 478994
+ 128624 string characters out of 5858184
  447089 words of memory out of 5000000
  26017 multiletter control sequences out of 15000+600000
  405325 words of font info for 33 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 71i,13n,74p,1185b,584s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 71i,13n,74p,1185b,582s stack positions out of 5000i,500n,10000p,200000b,80000s
 {/usr/local/texlive/2021/texmf-dist/fonts/enc/dvips/cm-super/cm-super-ts1.enc
 }</usr/local/texlive/2021/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx10.pfb>
 </usr/local/texlive/2021/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb><
@@ -394,10 +394,10 @@ Here is how much of TeX's memory you used:
 sr/local/texlive/2021/texmf-dist/fonts/type1/public/amsfonts/cm/cmr7.pfb></usr/
 local/texlive/2021/texmf-dist/fonts/type1/public/amsfonts/cm/cmti10.pfb></usr/l
 ocal/texlive/2021/texmf-dist/fonts/type1/public/cm-super/sfrm1000.pfb>
-Output written on CV.pdf (3 pages, 96495 bytes).
+Output written on CV.pdf (2 pages, 96203 bytes).
 PDF statistics:
- 121 PDF objects out of 1000 (max. 8388607)
- 107 compressed objects within 2 object streams
- 17 named destinations out of 1000 (max. 500000)
+ 117 PDF objects out of 1000 (max. 8388607)
+ 104 compressed objects within 2 object streams
+ 16 named destinations out of 1000 (max. 500000)
  105 words of extra memory for PDF output out of 10000 (max. 10000000)
 
