@@ -15,7 +15,7 @@ external_link: ""
 
 
 url_code: ""
-#url_pdf: "https://www.yeabinmoon.com/uploads/draft9.pdf"
+url_pdf: "https://www.yeabinmoon.com/uploads/JMP.pdf"
 url_pdf: ""
 url_slides: ""
 url_video: ""
