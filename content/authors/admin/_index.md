@@ -29,7 +29,7 @@ education:
   courses:
   - course: PhD in Economics
     institution: University of Houston
-    year: 2017 -- 2022 (expected)
+    year: 2017 - 2022 (expected)
   - course: MA in Economics
     institution: Johns Hopkins University
     year: 2016    
