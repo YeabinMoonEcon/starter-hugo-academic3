@@ -6,15 +6,15 @@ title: Yeabin Moon
 superuser: true
 
 # Role/position/tagline
-role: Ph.D. candidate in Economics
+role: Senior Lecturer in Data Analytics
 
 # Organizations/Affiliations to show in About widget
 organizations:
-- name: University of Houston
-  url: https://www.uh.edu/class/economics/
+- name: Brandeis International Business School
+  url: https://www.brandeis.edu/global/
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include large-scale scraping and matching methods to study microeconoimc matters.
+bio: My research interests include large-scale scraping and NLP methods to study microeconoimc matters.
 
 
 # Interests to show in About widget
@@ -22,14 +22,14 @@ interests:
 - Labor
 - Health
 - Microeconomics
-- Applied Econometrics
+- NLP
 
 # Education to show in About widget
 education:
   courses:
   - course: PhD in Economics
     institution: University of Houston
-    year: 2017 - 2022 (expected)
+    year: 2017 - 2022
   - course: MA in Economics
     institution: Johns Hopkins University
     year: 2016    
@@ -47,7 +47,7 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: mailto:ymoon4@cougarnet.uh.edu
+  link: mailto:yeabinmoon@brandeis.edu
 - icon: linkedin
   icon_pack: fab
   link: https://www.linkedin.com/in/yeabin-moon-2864aa132/
@@ -66,6 +66,6 @@ email: ""
 highlight_name: true
 ---
 
-My name is Yeabin Moon. I am a PhD Candidate in the Economics Department at University of Houston. In my research, I use large-scale scraping and matching methods to study the effects of entry economic conditions on the economists' career. I am on the job market and will be available for interviews at the 2022 ASSA Meetings.
+My name is Yeabin Moon. I am a Senior Lecturer in Data Analytics at Brandeis International Business School. In my research, I use large-scale scraping and matching methods to study the effects of entry economic conditions on the economists' career. 
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/CV.pdf" "newtab" >}}curriculum vitae{{< /staticref >}}.
