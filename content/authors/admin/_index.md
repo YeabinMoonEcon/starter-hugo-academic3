@@ -19,10 +19,10 @@ bio: My research interests include large-scale scraping and NLP methods to study
 
 # Interests to show in About widget
 interests:
-- Labor
-- Health
-- Microeconomics
 - NLP
+- Cloud computing
+- Applied Microeconomics
+
 
 # Education to show in About widget
 education:
@@ -66,6 +66,6 @@ email: ""
 highlight_name: true
 ---
 
-My name is Yeabin Moon. I am a Senior Lecturer in Data Analytics at Brandeis International Business School. In my research, I use large-scale scraping and matching methods to study the effects of entry economic conditions on the economists' career. 
+My name is Yeabin Moon. I am a Senior Lecturer in Data Analytics at Brandeis International Business School. In my research, I use large-scale scraping and matching methods to study the effects of entry economic conditions on the economists' career.
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/CV.pdf" "newtab" >}}curriculum vitae{{< /staticref >}}.
