@@ -29,8 +29,3 @@ authors:
 slides: ""
 ---
 Bad labor market conditions at the entry have large and persistent negative effects on careers in general, but evidence of the impact on the economist is scarce. I estimate the effect of entry economic conditions on the careers of economics Ph.D. recipients from the top 32 programs in the U.S. who graduated between 2004 and 2012. I use natural language processing (NLP) to match degree holders with the career information scraped from various data sources. A simple theoretical model of task-specific human capital formation reveals the possible mechanisms driving the permanent effect of the entry condition on their careers. I empirically test the model's predictions using nearly complete employment histories and find that entry conditions cause an occupational mismatch at graduation. Poor entry conditions are associated with a decreased probability of getting a full-time position in an R1 university in the U.S. both in the short run and long run. I also find that a one standard deviation increase in the unemployment rate would result in 2.31 percent fewer publications. The primary mechanism through which entry conditions have a long-term effect is immobility across occupations.
-
-
----
-title: Examining the Relationship between Cognition and Response Behavior in Health Retirement Survey
-summary: Hi Hi
