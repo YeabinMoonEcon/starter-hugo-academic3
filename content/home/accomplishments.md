@@ -23,38 +23,15 @@ date_format: Jan 2006
 #   Leave other parameters empty if not required.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 item:
-- certificate_url: https://coursera.org/share/cf57cece18189f9b6f131f62541f37ec
-  date_end: ""
-  date_start: "2020-10-16"
-  description: ""
-  organization: Coursera
-  organization_url: https://www.coursera.org
-  title: Python for Data Science, AI & Development
-  url: ""
-- certificate_url: https://coursera.org/share/8432599e65daceb745442758a1f48978
-  date_end: ""
-  date_start: "2020-10-07"
-  description: ""
-  organization: Coursera
-  organization_url: https://www.coursera.org
-  title: Data Science Methodology
-  url: ""
-- certificate_url: https://coursera.org/share/9bdaa2946a17998f6a911ba1dae276f7
-  date_end: ""
-  date_start: "2020-11-15"
-  description: ""
-  organization: Coursera
-  organization_url: https://www.coursera.org
-  title: Data Visualization with Python
-  url: ""
-- certificate_url: https://coursera.org/share/e766f36ab4a1739432687a492d9b37f0
-  date_end: ""
-  date_start: "2020-11-15"
-  description: ""
-  organization: Coursera
-  organization_url: https://www.coursera.org
-  title: Tools for Data Science
-  url: ""
+
+#- certificate_url: https://coursera.org/share/e766f36ab4a1739432687a492d9b37f0
+#  date_end: ""
+#  date_start: "2020-11-15"
+#  description: ""
+#  organization: Coursera
+#  organization_url: https://www.coursera.org
+#  title: Tools for Data Science
+#  url: ""
 - certificate_url: ""
   date_end: ""
   date_start: "2021-09-29"
@@ -62,6 +39,14 @@ item:
   organization: Department of Economics, University of Houston
   organization_url: https://www.coursera.org
   title: Best Graduate Instructor
+  url: ""
+- certificate_url: https://econ.jhu.edu/about/student-awards/
+  date_end: ""
+  date_start: "2014-08-29"
+  description: ""
+  organization: Department of Economics, Johns Hopkins University
+  organization_url: https://www.coursera.org
+  title: Professor Joel Dean Undergraduate Teaching Award
   url: ""
 
 
