@@ -41,8 +41,8 @@ item:
   title: Best Graduate Instructor
   url: ""
 - certificate_url: ""
-  date_end: "2015"
-  date_start: "2014"
+  date_end: "2015-07-31"
+  date_start: "2014-08-31"
   description: ""
   organization: Department of Economics, Johns Hopkins University
   organization_url: https://www.coursera.org
