@@ -40,9 +40,9 @@ item:
   organization_url: https://www.coursera.org
   title: Best Graduate Instructor
   url: ""
-- certificate_url: https://econ.jhu.edu/about/student-awards/
-  date_end: ""
-  date_start: "2014-08-29"
+- certificate_url: ""
+  date_end: "2015"
+  date_start: "2014"
   description: ""
   organization: Department of Economics, Johns Hopkins University
   organization_url: https://www.coursera.org
