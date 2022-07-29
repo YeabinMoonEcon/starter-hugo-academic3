@@ -10,7 +10,7 @@ role: Senior Lecturer in Data Analytics
 
 # Organizations/Affiliations to show in About widget
 organizations:
-- name: Brandeis;International Business School
+- name: Brandeis International Business School
   url: https://www.brandeis.edu/global/
 
 # Short bio (displayed in user profile at end of posts)
