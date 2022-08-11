@@ -1,5 +1,5 @@
 ---
-title: Examining the Relationship between Cognition and Response Behavior in Health Retirement Survey
+title: Characterizing Survey Response: Estimating Cognitive Proxy
 #subtitle: Welcome 👋 We know that first impressions are important, so we've populated your new site with some initial content to help you get familiar with everything in no time.
 
 # Summary for listings and search engines
