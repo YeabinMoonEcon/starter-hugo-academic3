@@ -1,34 +1,31 @@
 ---
-title: Examining the Relationship between Cognition and Response Behavior in Health Retirement Survey
-#subtitle: Welcome 👋 We know that first impressions are important, so we've populated your new site with some initial content to help you get familiar with everything in no time.
+title: Effects of Entry Economic Conditions on the Career of Economics Ph.D.
+summary: Bad labor market conditions at the entry have large and persistent negative effects on careers in general, but evidence of the impact on the economist is scarce. I estimate the effect of entry economic conditions on the careers of economics Ph.D. recipients from the top 32 programs in the U.S. who graduated between 2004 and 2012. I use natural language processing (NLP) to match degree holders with the career information scraped from various data sources. A simple theoretical model of task-specific human capital formation reveals the possible mechanisms driving the permanent effect of the entry condition on their careers. I empirically test the model's predictions using nearly complete employment histories and find that entry conditions cause an occupational mismatch at graduation. Poor entry conditions are associated with a decreased probability of getting a full-time position in an R1 university in the U.S. both in the short run and long run. I also find that a one standard deviation increase in the unemployment rate would result in 2.31 percent fewer publications. The primary mechanism through which entry conditions have a long-term effect is immobility across occupations.
 
-# Summary for listings and search engines
-summary: This paper examines the answering behavior of the old respondents. There is a growing interest in the cognitive decline of the aging population, but not enough is known about the consequences and implications of cognitive decline or its manageability from public policies outside the medical literature. The major challenge is insufficient measures of one’s cognition even in popular surveys such as Consumer Expenditure Survey. The objective of the paper is to create the individual proxy from each respondent’s answering behavior in the survey data. Note that taking a survey requires a series of cognitive tasks. Respondents need to comprehend the question, search their memory, make a decision, and format the response to a given scale. This paper proposes a standardized measure of answering behavior using open-ended financial questions in the Health and Retirement Study. I estimate the proxy of one’s cognitive ability based on one’s answering behavior and try to make it cross-sectionally comparable. The measures are in line with the respondents’ cognitive score in the HRS.  
-# Link this post with a project
-projects: []
+#tags:
+#- Deep Learning
+date: "2021-10-27T00:00:00Z"
 
-# Date published
-date: "2020-12-13T00:00:00Z"
+# Optional external URL for project (replaces project detail page).
+external_link: ""
 
-# Date updated
-lastmod: "2020-12-13T00:00:00Z"
+#image:
+#  caption: Photo by rawpixel on Unsplash
+#  focal_point: Smart
 
-# Is this an unpublished draft?
-draft: false
 
-# Show this page in the Featured widget?
-featured: false
-
-# Featured image
-# Place an image named `featured.jpg/png` in this page's folder and customize its options here.
-image:
-  #caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/CpkOjOcXdUY)'
-  #focal_point: ""
-  #placement: 2
-  #preview_only: false
+url_code: ""
+url_pdf: "https://www.yeabinmoon.com/uploads/JMP.pdf"
+url_slides: ""
+url_video: ""
 
 authors:
 - admin
-
+# Slides (optional).
+#   Associate this project with Markdown slides.
+#   Simply enter your slide deck's filename without extension.
+#   E.g. `slides = "example-slides"` references `content/slides/example-slides.md`.
+#   Otherwise, set `slides = ""`.
+slides: ""
 ---
-This paper examines the answering behavior of the old respondents. There is a growing interest in the cognitive decline of the aging population, but not enough is known about the consequences and implications of cognitive decline or its manageability from public policies outside the medical literature. The major challenge is insufficient measures of one’s cognition even in popular surveys such as Consumer Expenditure Survey. The objective of the paper is to create the individual proxy from each respondent’s answering behavior in the survey data. Note that taking a survey requires a series of cognitive tasks. Respondents need to comprehend the question, search their memory, make a decision, and format the response to a given scale. This paper proposes a standardized measure of answering behavior using open-ended financial questions in the Health and Retirement Study. I estimate the proxy of one’s cognitive ability based on one’s answering behavior and try to make it cross-sectionally comparable. The measures are in line with the respondents’ cognitive score in the HRS.  
+Bad labor market conditions at the entry have large and persistent negative effects on careers in general, but evidence of the impact on the economist is scarce. I estimate the effect of entry economic conditions on the careers of economics Ph.D. recipients from the top 32 programs in the U.S. who graduated between 2004 and 2012. I use natural language processing (NLP) to match degree holders with the career information scraped from various data sources. A simple theoretical model of task-specific human capital formation reveals the possible mechanisms driving the permanent effect of the entry condition on their careers. I empirically test the model's predictions using nearly complete employment histories and find that entry conditions cause an occupational mismatch at graduation. Poor entry conditions are associated with a decreased probability of getting a full-time position in an R1 university in the U.S. both in the short run and long run. I also find that a one standard deviation increase in the unemployment rate would result in 2.31 percent fewer publications. The primary mechanism through which entry conditions have a long-term effect is immobility across occupations.
