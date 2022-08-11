@@ -27,6 +27,8 @@ image:
   #placement: 2
   #preview_only: false
 
+url_pdf: "https://www.yeabinmoon.com/uploads/draft.pdf"
+
 authors:
 - admin
 
